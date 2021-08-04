@@ -1,0 +1,8 @@
+X=MsgBox("you run Grand Theft Auto V?",1+16,"Run")
+X=MsgBox("dow now ALL VIROUS !!!",0+16,"haha")
+X=MsgBox("SETLE ALL YOUR SAVE IN YOUR MOM !!!",1+16,"HAHA")
+X=MsgBox("hahaha omg !! dow all the virous",0+16,"hack")
+X=MsgBox("sel in frend *****",1+16,"facebook")
+X=MsgBox("now del the systeam 23",1+16,"omg")
+X=MsgBox("now dow all the hakers !!!",1+16,"???")
+X=MsgBox("is fake",0+16,"is fake virous")     
